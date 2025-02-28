@@ -1,4 +1,4 @@
-# DreamyBags: Cardano Wallet Quick Profiler
+# DreamyBags : Cardano Wallet Quick Profiler
 
 ## Overview
 
